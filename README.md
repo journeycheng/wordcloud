@@ -93,6 +93,8 @@ draw_wordcloud(filePath='./json/tang', imagename='tang_back.png', cloudname="tan
 ```
 - 设置frefer_horizontal=1是为了让所有的词条水平显示
 - 效果：
+
+
 ![](./image/tang_back.png?raw=true) ![](./image/tang_poem.png?raw=true)
 
 
