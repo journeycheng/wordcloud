@@ -36,5 +36,16 @@ generatedCloud(filename='chengjiaoupdate_data.json', imagename='circle.jpg', clo
 ```
 - 调用WordCloud.fit_words函数
 - skt.ttf是楷体文件
-- wordcloud.jpg
-[](./image/circle.jpg)
+- 背景图片circle.jpg
+![](./image/circle.jpg?raw=true)
+- 生成图片cloud.png
+![](./image/cloud.png?raw=true)
+
+
+
+
+
+
+
+
+
