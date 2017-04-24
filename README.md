@@ -37,6 +37,7 @@ generatedCloud(filename='chengjiaoupdate_data.json', imagename='circle.jpg', clo
 - 调用WordCloud.fit_words函数
 - skt.ttf是楷体文件
 - 效果
+
 ![](./image/circle.jpg?raw=true) ![](./image/cloud.png?raw=true)
 
 ## 二、基于jieba切分词条的方式
